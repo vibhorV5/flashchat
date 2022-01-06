@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19335554745",
+    "project_id": "flash-chat-6ac8f",
+    "storage_bucket": "flash-chat-6ac8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19335554745:android:105cc12a33d8f979951d68",
+        "android_client_info": {
+          "package_name": "vibhorvats7.com.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19335554745-muvd7s7i27r667tg8n5e2apafb4522sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB8LvCklNmc4AlppUS0elwL2mqxBpMHf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19335554745-muvd7s7i27r667tg8n5e2apafb4522sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
