@@ -1,6 +1,6 @@
 # flashchat
 
-A new Flutter project.
+Basic chat app using Firebase.
 
 ## Getting Started
 
